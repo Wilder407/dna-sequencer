@@ -1,0 +1,9 @@
+
+
+// Homo Sapiens TFF1
+atccctgact cggggtcgcc tttggagcag agaggaggca atggccacca tggagaacaa ggtgatctgc gccctggtcc tggtgtccat gctggccctc ggcaccctgg ccgaggccca gacagagacg tgtacagtgg ccccccgtga aagacagaat tgtggttttc ctggtgtcac gccctcccag tgtgcaaata agggctgctg tttcgacgac accgttcgtg gggtcccctg gtgcttctat cctaatacca tcgacgtccc tccagaagag gagtgtgaat tttagacact tctgcaggga tctgcctgca tcctgacgcg gtgccgtccc cagcacggtg attagtccca gagctcggct gccacctcca ccggacacct cagacacgct tctgcagctg tgcctcggct cacaacacag attgactgct ctgactttga ctactcaaaa ttggcctaaa aattaaaaga gatcgatatt aa
+
+
+// Breast cancer TFF1
+gcacgaggct ttggagcaga gaggaggcaa tggccaccat ggagaacaag gtgatctgcg ccctggtcct ggtgtccatg ctggccctcg gcaccctggc cgaggcccag acagagacgt gtacagtggc cccccgtgaa agacagaatt gtggttttcc tggtgtcacg ccctcccagt gtgcaaataa gggctgctgt ttcgacgaca ccgttcgtgg ggtcccctgg tgcttctatc ctaataccat cgacgtccct ccagaagagg agtgtgaatt ttagacactt ctgcagggat ctgcctgcat cctgacgcgg  tgccgtcccc agcacggtga ttagtcccag agctcggctg ccacctccac cggacacctc agacacgctt ctgcagctgt gcctcggctc acaacacaga ttgactgctc tgactttgac tactcaaaat tggcctaaaa attaaaagag atcgatatta aaaaaaaaaa aaaaaaactc gactctagat tgcggccgcg gtcatagctg tttcctgaac agatcccggg tggcatccct gtgacccctc cccagtgcct ctcctggccc tggaagttgc cactccagtg cccaccagcc ttgtcctaat aaaa
+
